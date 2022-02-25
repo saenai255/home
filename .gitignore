@@ -16,3 +16,5 @@
 !.local/share/arcmenu/**
 !.local/share/gnome-shell
 !.local/share/gnome-shell/**
+
+!install-apps.sh
