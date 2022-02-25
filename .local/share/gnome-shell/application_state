@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="github-desktop.desktop" score="41" last-seen="1645792349"/>
+    <application id="org.gnome.tweaks.desktop" score="18" last-seen="1645736696"/>
+    <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="49" last-seen="1645736507"/>
+    <application id="brave-browser.desktop" score="1909" last-seen="1645791940"/>
+    <application id="gnome-control-center.desktop" score="65" last-seen="1645777290"/>
+    <application id="org.gnome.gedit.desktop" score="244" last-seen="1645792463"/>
+    <application id="xfce4-terminal.desktop" score="7" last-seen="1645724088"/>
+    <application id="org.gnome.Nautilus.desktop" score="5553" last-seen="1645774187"/>
+    <application id="gnome-bluetooth-panel.desktop" score="0" last-seen="0"/>
+    <application id="discord.desktop" score="56" last-seen="1645792216"/>
+    <application id="ocs-url.desktop" score="0" last-seen="1645736630"/>
+    <application id="org.gnome.Terminal.desktop" score="457" last-seen="1645792473"/>
+    <application id="firefox.desktop" score="869" last-seen="1645777391"/>
+    <application id="gnome-system-monitor.desktop" score="16" last-seen="1645777393"/>
+    <application id="org.manjaro.pamac.manager.desktop" score="0" last-seen="1645726263"/>
+    <application id="timeshift-gtk.desktop" score="45" last-seen="1645735984"/>
+    <application id="gnome-keyboard-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Extensions.desktop" score="101" last-seen="1645774179"/>
+    <application id="gnome-applications-panel.desktop" score="0" last-seen="0"/>
+  </context>
+</application-state>
